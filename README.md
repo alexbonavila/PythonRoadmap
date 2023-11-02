@@ -7,6 +7,9 @@
 - Functions, Builtin Functions
 - Lists, Tuples, Sets, Dictionaries
 
+## GIT
+- TODO Put git url
+
 ## Advanced Topics
 - RegEx
 - Decorators
