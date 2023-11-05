@@ -42,9 +42,17 @@
 
 ## Advanced Topics
 - RegEx
+  - [Source](./src/advanced/reg_ex.py)
+  - [Picture](./resources/screenshots/advanced/reg_ex.png)
 - Decorators
+  - [Source](./src/advanced/decorators.py)
+  - [Picture](./resources/screenshots/advanced/decorators.png)
 - Lambdas
+  - [Source](./src/advanced/lambdas.py)
+  - [Picture](./resources/screenshots/advanced/lambdas.png)
 - Iterators
+  - [Source](./src/advanced/iterators.py)
+  - [Picture](./resources/screenshots/advanced/iterators.png)
 - OOP
   -  Classes
   -  Inheritance
